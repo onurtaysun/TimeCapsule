@@ -2,6 +2,9 @@
 # COE203 Project 1 - Time Capsule
 # Your Name - Fall 25-26
 
+from PIL import Image
+
+
 def add_message(messages):
     try:
      text = input("Enter your message: ")
